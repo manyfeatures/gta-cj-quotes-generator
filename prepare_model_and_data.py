@@ -23,7 +23,7 @@ def prepare_dataset(tokenizer, txt_list):
     train_dataloader = DataLoader(
         train_ds,
         sampler = RandomSampler(train_ds), # Sampling for training is random
-        batch_size = 8
+        batch_size = 16
     )
     return train_dataloader
 

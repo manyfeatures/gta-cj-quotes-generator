@@ -33,7 +33,8 @@ Run along, dope slanger!
 We don't need no crack dealers around here!
 Get outta here, you bitch!
 You want Grove Street on you, huh?
-You'd better leave now, fool."""
+You'd better leave now, fool.
+"""
 
 TEXTS_BEING_ARRESTED = """Do I look like a gangster? I’m a businessman! 
 What, you ran out of donuts?
@@ -126,7 +127,8 @@ Please, dude, do what you want, but shut up!
 Whatever you say, po-po!
 Come here and say that, bitch!
 Shut up!
-I'll rip your head off, you fuck!"""
+I'll rip your head off, you fuck!
+"""
 
 TEXTS_THREAT_WITH_GUN = """What did you expect? It's America!
 Welcome to Ganton, fool!
@@ -260,7 +262,8 @@ I'll be honest, I ain't got a license.
 Just because I look nice, you think I ain't for real? when he's rich)
 You think I don't know about guns, player?
 You should run away!
-You think I'm a perpetrator?"""
+You think I'm a perpetrator?
+"""
 
 ONE_STAR = """My mom's told me not to get into cars with strangers, dude!
 Come on, people are gonna think you're hard on me!
@@ -334,7 +337,8 @@ Is this your idea of fun?
 Is this your idea of a good time?
 Come on dude, I'm innocent!
 I think you should go and see a shrink, officer!
-Gimme a fucking break here!"""
+Gimme a fucking break here!
+"""
 
 _23_STARS = """You dick!
 You ain't scaring me, and you ain't stopping me!
@@ -356,7 +360,8 @@ You think you're hard, huh?
 Come on, then! Let's do this!
 I ain't backing down, bitch!
 I'm about to lose my temper!
-I ain't stopping, punk!"""
+I ain't stopping, punk!
+"""
 
 _46_STARS = """I ain't your bitch, officer!
 Cop asshole!
@@ -387,7 +392,8 @@ You're really pissing me off!
 You think you're hard, officer?!
 You're getting on my nerves!
 Don't make me stop running, fool!
-Come on and get me, asshole!"""
+Come on and get me, asshole!
+"""
 
 _26_START_GANG = """I think you should stop with that shit!
 Bribe-taking assholes!
@@ -403,7 +409,8 @@ You should stop blasting on me, fool!
 Stay the fuck away from me!
 It's on now, bitches!
 Keep on with this shit, you'll be sorry!
-You can't stop me, dude!"""
+You can't stop me, dude!
+"""
 
 CAR_JACK = """Welcome to San Andreas, fool.
 Remember, heroes get killed.
@@ -558,7 +565,8 @@ Relax, lady! Your insurance will pay, and you ain't hurt!
 It's an ugly car anyway!
 Get out, playa!
 I need that vehicle!
-You should've paid more attention, fool!"""
+You should've paid more attention, fool!
+"""
 
 STEAL_BIKE = """Gimme that fucking bike!
 Damn, you fell off?
@@ -613,7 +621,8 @@ You wanna get flattened?
 Gimme that bike, peewee!
 At least I didn't break your neck!
 Ooh, that look painful!
-YOU DON'T NEED THIS BIKE!"""
+YOU DON'T NEED THIS BIKE!
+"""
 
 CRASHING_VEHICLE = """Did you buy your license?
 Inbreeding makes you dumb, huh?
@@ -753,7 +762,8 @@ You trying to ruin my day, asshole?!
 Get out the way!
 My ride!
 Dumbass mark!
-Hey!"""
+Hey!
+"""
 
 CAR_JACKED = """Get those dirty hands off me!
 I need to exercise anyway.
@@ -897,7 +907,8 @@ Oh, tough guy, huh?
 I must be slippin', get jacked by a buster like you!
 Do you know who I am!?
 What you think you're doing?
-We both know you're gonna regret this!"""
+We both know you're gonna regret this!
+"""
 
 FIGHT = """Make it easy on yourself, and run away!
 Come on, fight then!
@@ -972,7 +983,8 @@ Okay then, let's do this!
 Hit me, asshole!
 Come on!
 Fuck you, I'm Grove Street!
-I'm already crazy, punk!"""
+I'm already crazy, punk!
+"""
 
 SINGING = """Warm it up Kane! Warm it up CJ! Warm it up Kane! (Warm it Up, Kane)
 Yeah, you dropped a bomb on me! (You Dropped a Bomb on Me)
@@ -987,7 +999,8 @@ Take your time and let me love you good! (Rock Me Again and Again...)
 Da-dum, tum tum tum tum tum, boom! (Children's Story)
 Bah-um, boom ba-ra-rah, ta-rah, ta-rah, tow! (Poison)
 Dum, du-ru-rum, tu-tum-tum, tu-tum, tum! (Nautilus)
-Beep, bee-beep, be-beep-beep-beep, bee-beep, bee-beep! (Rebel Without a Pause)"""
+Beep, bee-beep, be-beep-beep-beep, bee-beep, bee-beep! (Rebel Without a Pause)
+"""
 
 FAT = """I ain't a fat bitch, bitch!
 I'mma eat you, fool!
@@ -1004,7 +1017,8 @@ I ain't just a fat slob, asshole!
 You think you can deal with the fat man, huh!?
 I got weight on my side.
 Stand still!
-Hey, there's muscle under this fat, punk!"""
+Hey, there's muscle under this fat, punk!
+"""
 
 ROBUST = """I'm gangsta.
 I'm showstopper!
@@ -1014,7 +1028,8 @@ Who you callin' a bendico?
 You got a problem with Mr. Muscle Man, huh!
 I ain't takin' this shit fool!
 I got muscle on my side.
-Yo ass is a waste of time, fool!"""
+Yo ass is a waste of time, fool!
+"""
 
 SHOOTING_PEDESTRIANS = """Yeah, I'll shoot you in your face!
 Fuck y'all!
@@ -1080,7 +1095,8 @@ CJ, remember the name!
 Fat, huh?
 Let's go!
 You can't take CJ out!
-You're in a whole lot of trouble, tough guy."""
+You're in a whole lot of trouble, tough guy.
+"""
 
 PICK_UP_MONEY = """You won't be needing this now.
 This should help keep my belly full. 
@@ -1148,7 +1164,8 @@ Thank you, now shut up!
 Shouldn't've fucked with GSF, fool!
 Now stay the fuck down!
 That's all you gonna give me?
-You dropped your paper."""
+You dropped your paper.
+"""
 
 TEXTS = UNKNOWN_TEXT + TEXTS_BEING_ARRESTED + TEXTS_THREAT_WITH_GUN + ONE_STAR + _23_STARS + _46_STARS + _26_START_GANG\
         + CAR_JACK + STEAL_BIKE + CRASHING_VEHICLE + CAR_JACKED + FIGHT + SINGING + FAT + ROBUST + SHOOTING_PEDESTRIANS\
@@ -1158,7 +1175,3 @@ TEXTS = UNKNOWN_TEXT + TEXTS_BEING_ARRESTED + TEXTS_THREAT_WITH_GUN + ONE_STAR +
 #TEXTS = TEXTS.lower()
 #TEXTS = TEXTS.replace('!','') # is this necessary
 #TEXTS = TEXTS.replace('?',' ?') # for keeping questions?
-
-
-#print(len(set(TEXTS.split('\n'))))
-#print(max([len(word) for sent in list(set(TEXTS.split('\n'))) for word in sent.split(' ')]))

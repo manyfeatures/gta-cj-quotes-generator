@@ -14,15 +14,15 @@ if __name__ == '__main__':
 
     # Dataset
     txt_list = TEXTS.split('\n')
-    train_text, val_text = train_test_split(txt_list, test_size=0.3, random_state=42)
+    train_text, val_text = train_test_split(txt_list, test_size=0.03, random_state=42)
     train_dataloader = prepare_dataset(tokenizer, train_text)
-    val_dataloader = prepare_dataset(tokenizer, val_text) # we should process it in a different way
+    val_dataloader =  prepare_dataset(tokenizer, val_text) # we should process it in a different way
 
     device = 'cuda:0'
     model = model.to(device)
 
     print('Training:')
-    train(model, tokenizer, train_dataloader, val_dataloader, device, epochs=20)
+    train(model, tokenizer, train_dataloader, val_dataloader, device, epochs=40)
 
     print('Inference:')
     inference(model, tokenizer)

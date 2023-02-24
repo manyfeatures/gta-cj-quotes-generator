@@ -35,26 +35,27 @@
 ### Inference
 
 ```
-I'mma spend this on a good meal.
-You better apologize before I get out and hit me, bitch!
-You're out your mind!
-Come on, lady out of the hospital!
-You hit me, punk-ass!
-Yeah, you dropped a bomb on me! (You Dropped a bomb on me! (You Dro
-Now, you better shut up!
-I don't want y'all doing nothing funny to me at the time, too.
-Oh, you got car-slipping again!
-I'm having fun this for now?
-You got a life to do, mister?
-Yeah, you think your hard?
-I can't walk now, sucker!
-Yeah, what's up now, I'm just a fat slob, a fat slob!
-Get outta here punk! Now!
-Get lost, now, or I'll take you out, punk-ass!
-Come on, you need to exercise more exercise.
-I don't give a shit, fool!
-I don't look like a bitch you don't need this no more.
-Come on, lady outta there!
+Do I look like I suck, huh?!
+This should help keep my belly full.
+I'm a street criminal, am I?!
+I'm just a fat bitch, huh?!
+Oh, do you want a hole in your head, huh?
+You got a problem with big men like you!
+I can tell you what, one-time, shut your fucking mouth!
+Aw, I ain't running!
+You got a problem with my car homie!
+It'sma put you to sleep, punk!
+Aw, I still can live, playa.
+You ain't just some bitch you can slap about!
+This gonna get real nasty?
+You gonna look like you don't need this no more.
+You can't get shut up, po-po.
+I'm fat and useless, bitch!
+You hit homeboy!
+I can't believe you got a license, huh!?
+You think this is funny?
+I got a gun, bitch!
+
 ```
 
 quite similar to original dataset, sometime those sentences are the exact copies
