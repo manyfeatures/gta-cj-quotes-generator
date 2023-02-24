@@ -21,12 +21,12 @@ if __name__ == '__main__':
     device = 'cuda:0'
     model = model.to(device)
 
-    # print('Training:')
-    # train(model, tokenizer, train_dataloader, val_dataloader, device, epochs=20)
+    print('Training:')
+    train(model, tokenizer, train_dataloader, val_dataloader, device, epochs=20)
 
-    print('\nInference:\n')
+    print('Inference:')
     inference(model, tokenizer)
-
-    # print()
+	
+    # default methods from HF for generation
     # print('Generate quote:')
     # generate_eval_sample(model, tokenizer)

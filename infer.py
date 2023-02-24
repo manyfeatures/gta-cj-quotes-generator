@@ -9,7 +9,7 @@ import numpy as np
 # blue = evaluate.load('bleu')
 
 # taken from somewhere on the web
-def topk(probs, n=10):
+def topk(probs, n=30):
     """select 1 token from top k"""
     # The scores are initially softmaxed to convert to probabilities
     probs = torch.softmax(probs, dim=-1)

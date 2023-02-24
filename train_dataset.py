@@ -1,7 +1,7 @@
 #https://gta.fandom.com/wiki/Dialogues_in_GTA_San_Andreas
 # CJ quotes list
 
-__all__ == ['TEXTS']
+#__all__ == ['TEXTS']
 
 UNKNOWN_TEXT = """You get outta here!
 Run or die, bitch!
