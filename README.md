@@ -1,4 +1,4 @@
-# GTA SA CJ's qoutes generator
+# GTA SA CJ's quotes generator
 
 ### TODO List
 
